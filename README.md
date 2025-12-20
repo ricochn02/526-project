@@ -3,4 +3,5 @@
 
 ## Instructions
 1. Clone repository
-2. Open project and run uv sync in terminal 
+2. Open project and run ````uv sync```` in terminal 
+
